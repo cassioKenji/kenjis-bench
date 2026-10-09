@@ -1,0 +1,5 @@
+# Build do PlatformIO
+.pio/
+
+# Credenciais (Wi-Fi, senhas): cada projeto tem um secrets.example.h versionado
+**/include/secrets.h
